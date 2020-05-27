@@ -11,7 +11,7 @@ För att scriptet ska funka behöver man skriva en alias, något som beskrivs ne
 ### 1. Ladda ner filer
 Kör `Git Clone` för att ladda ner repository eller ladda ner manuellt. En viktig del är att veta var PATH till din mapp innehållande "bomben.sh" ligger. Du kan ta reda på detta genom att öppna ett terminalfönster och dra in mappen i terminalrutan. Kopiera addressen, det är din `PATH-TO-BOMBEN`. 
 
-![](https://github.com/precisit/bomben/blob/master/img/1.png =100x20)
+![](https://github.com/precisit/bomben/blob/master/img/1.png)
 
 
 ### 2. Setup "Alias

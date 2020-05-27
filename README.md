@@ -29,7 +29,7 @@ Beroende på om du har python, conda eller dylikt installerat finns det kod i fi
 ![](https://github.com/precisit/bomben/blob/master/img/2.png)
 
 
-Nu ska vi lägga till Alias för att starta bomben. 
+## Nu ska vi lägga till Alias för att starta bomben. 
 
 1. Nedanför den nuvarande koden, lägg till en del för Alias `# Aliases`
 

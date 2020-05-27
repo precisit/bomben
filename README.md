@@ -22,14 +22,22 @@ Alias skrivs i filen ".bash_profile" som finns i ditt home directory (`cd ~`). N
 
 1. Starta terminalen
 2. Använd kommandot `open .bash_profile`
-Beroende på om du har python, conda eller dylikt installerat finns det kod i filen redan. 
+Beroende på om du har python, conda eller dylikt installerat finns det kod i filen redan.
+
+
+
 ![](https://github.com/precisit/bomben/blob/master/img/2.png)
+
 
 Nu ska vi lägga till Alias för att starta bomben. 
 
 1. Nedanför den nuvarande koden, lägg till en del för Alias `# Aliases`
+
+
 ![](https://github.com/precisit/bomben/blob/master/img/3.png)
 2. Ett alias skrivs på följande form:
+
+
 `alias bomba=" cd PATH-TO-BOMBEN && ./bomben.sh"`
 där `PATH-TO-BOMBEN`är platsen där du har sparat mappen innehållande "bomben.sh".
 

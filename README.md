@@ -35,8 +35,11 @@ Nu ska vi lägga till Alias för att starta bomben.
 
 
 ![](https://github.com/precisit/bomben/blob/master/img/3.png)
-2. Ett alias skrivs på följande form:
 
+
+
+
+2. Ett alias skrivs på följande form:
 
 `alias bomba=" cd PATH-TO-BOMBEN && ./bomben.sh"`
 där `PATH-TO-BOMBEN`är platsen där du har sparat mappen innehållande "bomben.sh".

@@ -33,3 +33,7 @@ där `PATH-TO-BOMBEN`är platsen där du har sparat mappen innehållande "bomben
 3. Ett annat nyttigt alias är
 `alias edit =" open ~/.bash_profile" ` 
 som kan användas om du vill redigera .bash_profile-filen snabbt.
+
+
+## Klart!
+Starta om terminalen och skriv "bomba" så borde scriptet dra igång. 

@@ -1,5 +1,5 @@
 # bomben     💣   
-"Bomben" är ett simpelt bash-script som startas via terminalen. Scriptet startar en mängd konsultmäklarsidor som annonserar uppdrag. Bomben funkar för Firefox, Safari och Google Chrome.
+Bomben funkar för Firefox, Safari och Google Chrome.
 
 # Redigera 
 Öppna bomben.sh och följ instruktionerna för att lägga till nya sidor till listan.

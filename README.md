@@ -25,7 +25,7 @@ Alias kan användas för att skapa förkortningar till vanligt använda terminal
 Alias skrivs i filen ".bash_profile" som finns i ditt home directory (`cd ~`). Nedan följer hur du öppnar ".bash_profile" via terminalen:
 
 1. Starta terminalen
-2. Använd kommandot `open .bash_profile`
+2. Använd kommandot `open .bash_profile`.
 Beroende på om du har python, conda eller dylikt installerat finns det kod i filen redan.
 
 

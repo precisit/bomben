@@ -1,11 +1,11 @@
 # bomben     💣   
 "Bomben" är ett simpelt bash-script som startas via terminalen. Scriptet startar en mängd konsultmäklarsidor som annonserar uppdrag. Bomben funkar för Firefox, Safari och Google Chrome.
 
-# Setup 
-För att scriptet ska funka behöver man skriva en alias, något som beskrivs nedan. Om något är otydligt är det bara att höra av er eller skapa en issue så kan det förtydligas.
-
 # Redigera 
 Öppna bomben.sh och följ instruktionerna för att lägga till nya sidor till listan.
+
+# Setup 
+För att scriptet ska funka behöver man skriva en alias, något som beskrivs nedan. Om något är otydligt är det bara att höra av er eller skapa en issue så kan det förtydligas.
 
 ## Mac
 
@@ -25,7 +25,7 @@ Alias kan användas för att skapa förkortningar till vanligt använda terminal
 Alias skrivs i filen ".bash_profile" som finns i ditt home directory (`cd ~`). Nedan följer hur du öppnar ".bash_profile" via terminalen:
 
 1. Starta terminalen
-2. Använd kommandot `open .bash_profile`
+2. Använd kommandot `open .bash_profile`.
 Beroende på om du har python, conda eller dylikt installerat finns det kod i filen redan.
 
 

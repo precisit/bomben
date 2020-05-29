@@ -14,7 +14,8 @@ if [[ "$browser" == *[cC]hrome* ]]; then
     # ändrar du bomben_chrome.
     open bomben_chrome
 else
-    open -n $browser
+    open -n -a $browser
+    sleep 1s 
     open -a $browser https://www.brainville.com/PublicPage/Login
     open -a $browser https://supplier.eworkgroup.com/app/job-requests?page=0&size=20&sortConfig=%5B%7B%22sortBy%22%3A%22firstDayOfApplications%22%2C%22order%22%3A%22DESC%22%7D%5D&filtersConfig=%7B%22languages%22%3A%5B%5D%2C%22skills%22%3A%5B%5D%2C%22skillRoleCategories%22%3A%5B%5D%2C%22location%22%3A%7B%22city%22%3Anull%2C%22country%22%3A%22Sweden%22%2C%22name%22%3A%22Stockholm%20County%2C%20Sweden%22%2C%22locationId%22%3A%22NT_ggmqOD.kp-CmBdZgCiCBaC%22%7D%7D
     open -a $browser https://portal.afry.com/en/AvailableAssignments

@@ -42,11 +42,11 @@ Beroende på om du har python, conda eller dylikt installerat finns det kod i fi
 2. Ett alias skrivs på följande form:
 
 `alias bomba=" cd PATH-TO-BOMBEN && ./bomben.sh"`
-där `PATH-TO-BOMBEN`är platsen där du har sparat mappen innehållande "bomben.sh".
+där `PATH-TO-BOMBEN`är platsen där du har sparat mappen innehållande "bomben.sh". 
 
 3. Ett annat nyttigt alias är
 `alias edit =" open ~/.bash_profile" ` 
-som kan användas om du vill redigera .bash_profile-filen snabbt.
+som kan användas om du vill redigera .bash_profile-filen.
 
 
 ### Klart!

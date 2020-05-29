@@ -46,3 +46,5 @@ open -a Google\ Chrome https://www.wise.se/lediga-jobb/?filter_pnty_q=
 open -a Google\ Chrome https://www.wiseit.se/lediga-tjanster/?filter_pnty_job_tag=
 open -a Google\ Chrome https://www.northab.com/jobs
 open -a Google\ Chrome https://www.jobserve.com/se/en/JobSearch.aspx?shid=AA56B564271141ED47
+open -a Google\ Chrome https://www.dreamwork.se/engineering/lediga-tjanster/?locations=stockholms-lan&assign=engineering
+open -a Google\ Chrome https://www.adecco.se/lediga-jobb/inom-stockholms-l%C3%A4n/

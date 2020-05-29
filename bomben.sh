@@ -59,4 +59,6 @@ else
     open -a $browser https://www.wiseit.se/lediga-tjanster/?filter_pnty_job_tag=
     open -a $browser https://www.northab.com/jobs
     open -a $browser https://www.jobserve.com/se/en/JobSearch.aspx?shid=AA56B564271141ED47
+    open -a $browser https://www.dreamwork.se/engineering/lediga-tjanster/?locations=stockholms-lan&assign=engineering
+    open -a $browser https://www.adecco.se/lediga-jobb/inom-stockholms-l%C3%A4n/
 fi

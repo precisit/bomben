@@ -62,4 +62,5 @@ else
     open -a $browser https://www.dreamwork.se/engineering/lediga-tjanster/?locations=stockholms-lan&assign=engineering
     open -a $browser https://www.adecco.se/lediga-jobb/inom-stockholms-l%C3%A4n-yrke-ingenj%C3%B6r-teknik/
     open -a $browser https://www.konsultuppdrag.com/companies/bolero-ab/
+    open -a $browser https://regent.se/uppdrag/
 fi

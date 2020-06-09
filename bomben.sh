@@ -61,7 +61,7 @@ else
     open -a $browser https://www.jobserve.com/se/en/JobSearch.aspx?shid=AA56B564271141ED47
     open -a $browser https://www.dreamwork.se/engineering/lediga-tjanster/?locations=stockholms-lan&assign=engineering
     open -a $browser https://www.adecco.se/lediga-jobb/inom-stockholms-l%C3%A4n-yrke-ingenj%C3%B6r-teknik/
-    open -a $browser https://www.konsultuppdrag.com/companies/bolero-ab/
+    open -a $browser https://www.konsultuppdrag.com/jobs-3/
     open -a $browser https://www.sigmaindustryeastnorth.se/lediga-jobb/
     open -a $browser https://datakonsulter.info/WiseDki/StartController#assignments
 fi

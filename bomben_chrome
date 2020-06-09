@@ -48,3 +48,6 @@ open -a Google\ Chrome https://www.northab.com/jobs
 open -a Google\ Chrome https://www.jobserve.com/se/en/JobSearch.aspx?shid=AA56B564271141ED47
 open -a Google\ Chrome https://www.dreamwork.se/engineering/lediga-tjanster/?locations=stockholms-lan&assign=engineering
 open -a Google\ Chrome https://www.adecco.se/lediga-jobb/inom-stockholms-l%C3%A4n-yrke-ingenj%C3%B6r-teknik/
+open -a Google\ Chrome https://www.konsultuppdrag.com/jobs-3/
+open -a Google\ Chrome https://www.sigmaindustryeastnorth.se/lediga-jobb/
+open -a Google\ Chrome https://datakonsulter.info/WiseDki/StartController#assignments

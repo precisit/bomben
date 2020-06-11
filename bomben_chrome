@@ -16,9 +16,8 @@ open -a Google\ Chrome https://www.gabert-partners.se/lediga-uppdrag
 open -a Google\ Chrome https://www.techrelations.se/konsultuppdrag
 open -a Google\ Chrome https://www.safemind.se/lediga-jobb-tjanster/?tmp=1
 open -a Google\ Chrome https://onsiter.com/se/uppdrag
-open -a Google\ Chrome https://www.swcg.com/
+open -a Google\ Chrome https://www.swcg.com/jobs
 open -a Google\ Chrome https://levigo.se/
-open -a Google\ Chrome https://www.konsultuppdrag.com/jobs/?s=&location%5B%5D=stockholm-county
 open -a Google\ Chrome https://regent.se/uppdrag/
 open -a Google\ Chrome https://www.tingent.se/jobs.html
 open -a Google\ Chrome https://jobb.mscsolutions.se/

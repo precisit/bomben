@@ -29,9 +29,8 @@ else
     open -a $browser https://www.techrelations.se/konsultuppdrag
     open -a $browser https://www.safemind.se/lediga-jobb-tjanster/?tmp=1
     open -a $browser https://onsiter.com/se/uppdrag
-    open -a $browser https://www.swcg.com/
+    open -a $browser https://www.swcg.com/jobs
     open -a $browser https://levigo.se/
-    open -a $browser "https://www.konsultuppdrag.com/jobs/?s=&location%5B%5D=stockholm-county"
     open -a $browser https://regent.se/uppdrag/
     open -a $browser https://www.tingent.se/jobs.html
     open -a $browser https://jobb.mscsolutions.se/

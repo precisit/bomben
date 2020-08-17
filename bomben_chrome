@@ -29,7 +29,7 @@ open -a Google\ Chrome https://enmanskonsulterna.se/hitta-uppdrag
 open -a Google\ Chrome https://jobb.bravura.se/lediga-jobb/?categories=558201
 open -a Google\ Chrome https://jobb.senterprise.se/jobs
 open -a Google\ Chrome https://jobs.academicwork.se/?L=Stockholms
-open -a Google\ Chrome https://se.indeed.com/jobb?as_and=design
+open -a Google\ Chrome https://se.indeed.com/jobb?q=Konsultuppdrag+utvecklare&l=
 open -a Google\ Chrome https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75
 open -a Google\ Chrome https://www.7n.com/job-offers
 open -a Google\ Chrome https://account.asociety.se/#/assignments
@@ -38,7 +38,7 @@ open -a Google\ Chrome https://www.kimm.se/lediga-jobb/?filter_pnty_q=
 open -a Google\ Chrome https://www.konsulter.net/freelance-jobs/
 open -a Google\ Chrome https://www.konsultfabriken.se/all-assignments.php
 open -a Google\ Chrome https://www.meone.se/jobb/
-open -a Google\ Chrome https://www.piscer.se/uppdrag
+open -a Google\ Chrome https://www.piscer.se/konsultuppdrag
 open -a Google\ Chrome https://www.tng.se/lediga-jobb?ort=Stockholm
 open -a Google\ Chrome https://www.uptrail.com/sv/it-tech
 open -a Google\ Chrome https://www.wise.se/lediga-jobb/?filter_pnty_q=

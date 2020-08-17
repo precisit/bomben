@@ -42,7 +42,7 @@ else
     open -a $browser https://jobb.bravura.se/lediga-jobb/?categories=558201
     open -a $browser https://jobb.senterprise.se/jobs
     open -a $browser https://jobs.academicwork.se/?L=Stockholms
-    open -a $browser https://se.indeed.com/jobb?as_and=design
+    open -a $browser https://se.indeed.com/jobb?q=Konsultuppdrag+utvecklare&l=
     open -a $browser https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75
     open -a $browser https://www.7n.com/job-offers
     open -a $browser "https://account.asociety.se/#/assignments"
@@ -51,7 +51,7 @@ else
     open -a $browser https://www.konsulter.net/freelance-jobs/
     open -a $browser https://www.konsultfabriken.se/all-assignments.php
     open -a $browser https://www.meone.se/jobb/
-    open -a $browser https://www.piscer.se/uppdrag
+    open -a $browser https://www.piscer.se/konsultuppdrag
     open -a $browser https://www.tng.se/lediga-jobb?ort=Stockholm
     open -a $browser https://www.uptrail.com/sv/it-tech
     open -a $browser https://www.wise.se/lediga-jobb/?filter_pnty_q=

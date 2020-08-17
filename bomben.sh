@@ -63,4 +63,5 @@ else
     open -a $browser https://www.konsultuppdrag.com/jobs-3/
     open -a $browser https://www.sigmaindustryeastnorth.se/lediga-jobb/
     open -a $browser https://datakonsulter.info/WiseDki/StartController#assignments
+    open -a $browser https://resursbrist.se/aktuella-uppdrag/
 fi

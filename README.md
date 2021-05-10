@@ -1,13 +1,19 @@
 # bomben     💣   
-"Bomben" är ett simpelt bash-script som startar en mängd konsultmäklarsidor som annonserar uppdrag
+"Bomben" är ett simpelt cmd/bash-script som startar en mängd konsultmäklarsidor som annonserar uppdrag
 
-Bomben funkar för Firefox, Safari och Google Chrome.
+Bomben funkar för Firefox, Safari och Google Chrome(just nu hårdkodat Chrome för windows).
 
 # Redigera 
-Öppna bomben.sh och följ instruktionerna för att lägga till nya sidor till listan.
+(MAC) Öppna bomben.sh och följ instruktionerna för att lägga till nya sidor till listan.
+(WINDOWS) Följ formatet i filen
 
 # Setup 
-För att scriptet ska funka behöver man skriva en alias, något som beskrivs nedan. Om något är otydligt är det bara att höra av er eller skapa en issue så kan det förtydligas.
+För att scriptet ska funka för mac behöver man skriva en alias, något som beskrivs nedan. Om något är otydligt är det bara att höra av er eller skapa en issue så kan det förtydligas.
+
+## Windows 
+Filen "windows.cmd" innehåller kommandon för windows att öppna upp diverse sidor. Lättaste sättet 
+att använda den här är att lägga cmd nånstans där man lätt kommer åt den och dubbelklicka filen. Den
+kan ändra namn och man kan editera den i notepad om man så vill. 
 
 ## Mac
 
@@ -57,3 +63,4 @@ som kan användas om du vill redigera .bash_profile-filen.
 
 ### Klart!
 Starta om terminalen och skriv "bomba" så borde scriptet köra igång. 
+

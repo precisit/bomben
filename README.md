@@ -1,7 +1,7 @@
 # bomben     💣   
 "Bomben" är ett simpelt cmd/bash-script som startar en mängd konsultmäklarsidor som annonserar uppdrag
 
-Bomben funkar för Firefox, Safari och Google Chrome(just nu hårdkodat Chrome för windows).
+Bomben funkar för Firefox, Safari och Google Chrome (just nu hårdkodat Chrome för Windows).
 
 # Redigera 
 (MAC) Öppna bomben.sh och följ instruktionerna för att lägga till nya sidor till listan.

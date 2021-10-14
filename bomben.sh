@@ -13,7 +13,6 @@ declare -a sites=(
     "https://www.profinder.se/uppdrag-19993191"
     "https://www.nikita.se/lediga-uppdrag/"
     "https://www.nikita.se/ramavtal/"
-    "https://consultnord.se/jobs"
     "http://www.emaco.se/assignments"
     "https://www.gabert-partners.se/lediga-uppdrag"
     "https://www.techrelations.se/konsultuppdrag"
